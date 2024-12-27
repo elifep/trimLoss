@@ -1,0 +1,1 @@
+trimloss projesidir
